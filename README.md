@@ -1,2 +1,1 @@
-# slapjack
-JS作業 - 心臟病(打殭屍遊戲) 
+js-da-jiang-shi-wan1996tina
